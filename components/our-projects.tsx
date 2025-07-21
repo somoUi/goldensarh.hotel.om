@@ -9,7 +9,8 @@ const OurProject: React.FC = () => {
         Our Projects
       </Heading>
       <Text fontSize="16px" mb="32px" maxW="460px" textAlign="center">
-    
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry.
       </Text>
       <Grid
         gridTemplateColumns="repeat(3, 1fr)"
